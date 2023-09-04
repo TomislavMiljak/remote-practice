@@ -3,7 +3,7 @@ country: Croatia
 
 current population: 178,102 (2011. census)
 
-popular: -Marjan hill
+popular places: -Marjan hill
          -Poljud stadium
          -Bacvice beach
          -Riva promenade
